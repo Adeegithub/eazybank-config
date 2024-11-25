@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBanks QA related APIs in Cards Service"
+  contactDetails:
+    name: "Ishara - QA"
+    email: "ish.qa@gmail.com"
+  onCallSupport:
+    - 077 282 0149
+    - 070 292 0149

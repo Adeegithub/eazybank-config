@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBanks Cards related APIs"
+  contactDetails:
+    name: "Randina - Developer"
+    email: "randina@gmail.com"
+  onCallSupport:
+    - 077 282 1234
+    - 070 292 5678

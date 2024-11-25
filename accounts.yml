@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBanks Accounts related APIs"
+  contactDetails:
+    name: "Adeesha Gunawardana - Developer"
+    email: "adeesha.ag@gmail.com"
+  onCallSupport:
+    - 077 282 0148
+    - 070 292 0148
