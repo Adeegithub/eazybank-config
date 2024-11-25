@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBanks Prod related APIs"
   contactDetails:
     name: "Sebestian - Product Owner"
-    email: "seb.po@gmail.com"
+    email: "{cipher}82d717738744b924dc3c45a7614b32795981f4fc28be3db8f6019b1ab6ef7c1054def8eb7b98d768bd414f750321ea79"
   onCallSupport:
     - 077 282 0147
     - 070 292 0146
