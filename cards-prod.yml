@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBanks Webhook Adeesha related APIs in Cards Service"
+  message: "Welcome to EazyBanks Webhook Adee related APIs in Cards Service"
   contactDetails:
     name: "Adeesha - Product Owner"
     email: "aag.po@gmail.com"
