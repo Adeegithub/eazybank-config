@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBanks Accounts related docker APIs"
+  message: "Welcome to EazyBanks Accounts related local APIs"
   contactDetails:
     name: "Adeesha Gunawardana - Developer"
     email: "adeesha.ag@gmail.com"
